@@ -1,0 +1,1 @@
+This is L.txt, it was created and written from 6.py
