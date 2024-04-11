@@ -1,4 +1,4 @@
-class Uni:
+class Uni: #проверяет, есть ли студент в списке
     def __init__(self, name):
         self.name = name
 

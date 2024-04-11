@@ -14,7 +14,7 @@ def spy_game(nums):
 
     return False
 
-# Пример использования:
+
 user_input = input("Enter the list separated by spaces: ")
 nums = [int(n) for n in user_input.split()]
 print(spy_game(nums))
